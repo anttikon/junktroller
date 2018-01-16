@@ -21,7 +21,8 @@ DB_USER_API | Database username
 DB_PASSWORD_API | Database password
 DB_DATABASE_API | Database name
 
-You can specify multiple databases like this:
+## You can specify multiple databases like this:
+
 Env | Explanation
 ------------ | -------------
 DB_IP_API | Database IP
