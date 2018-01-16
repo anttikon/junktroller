@@ -1,9 +1,9 @@
 # Junktroller
 
-Junktroller is service that:
-- Backups mongos
-- Transfers backups to S3
-- Removes old backups from S3
+Junktroller is service that can:
+- Backup mongo databases
+- Transfer backups to S3 bucket
+- Remove old backups from S3 bucket
 
 # Dev
 `yarn dev`
